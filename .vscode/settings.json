@@ -1,0 +1,13 @@
+{
+    "latex-workshop.latex.toolchain": [
+  {
+    "command": "pdflatex",
+    "args": [
+      "-shell-escape",  // Ensure shell-escape is here
+      "-pdf",
+      "-interaction=nonstopmode",
+      "%DOC%"
+    ]
+  }
+]
+}

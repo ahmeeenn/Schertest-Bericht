@@ -62,30 +62,30 @@
 
 
 
-\begin{filecontents*}{data.csv}
-62.47, 86.81, 79.48, 72.66, 96.21, 67.83, 73.42, 67.10
-36.87, 27.74, 27.09, 24.46, 26.97, 24.23, 27.82, 24.83, 33.19
-\end{filecontents*}
+
 
 \begin{tikzpicture}
+	% Read the data from the CSV
 	\pgfplotstableread[col sep=comma]{data.csv}\csvdata
-	% Boxplot groups columns, but we want rows
+	
+	% Transpose the data (rows become columns)
 	\pgfplotstabletranspose\datatransposed{\csvdata} 
+	
 	\begin{axis}[
-		boxplot/draw direction = y,
+		boxplot/draw direction = y,    % Draw boxplot in horizontal direction
 		x axis line style = {opacity=0},
 		axis x line* = bottom,
 		axis y line = left,
 		enlarge y limits,
 		ymajorgrids,
-		xtick = {1, 2},
+		xtick = {1, 2},               % Define x-ticks
 		xticklabel style = {align=center, font=\small, rotate=60},
 		xticklabels = {Sintern, Laminiert},
-		xtick style = {draw=none}, % Hide tick line
-		ylabel = {Scherfestigkeit \si{\newton\per\milli\meter\squared}},
-		%ytick = {20, 40, 60, 80, 100}
+		xtick style = {draw=none},     % Hide tick lines
+		ylabel = {Scherfestigkeit \si{\newton\per\milli\meter\squared}}, % Y-axis label
 	]
-		\foreach \n in {1,...,4} {
+		% Plot the boxplots for each dataset (column in the transposed data)
+		\foreach \n in {1, 2} {  % Only 2 columns after transpose
 			\addplot+[boxplot, fill, draw=black] table[y index=\n] {\datatransposed};
 		}
 	\end{axis}
