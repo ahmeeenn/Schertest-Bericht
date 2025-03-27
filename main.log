@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  27 MAR 2025 15:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  27 MAR 2025 15:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1696,73 +1696,72 @@ File: Bilder/fhkiel_logo.jpg Graphic file (type jpg)
 <use Bilder/fhkiel_logo.jpg>
 Package pdftex.def Info: Bilder/fhkiel_logo.jpg  used on input line 256.
 (pdftex.def)             Requested size: 262.49362pt x 70.0pt.
-
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 275.
+ (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 275.
+ (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 275.
+ (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 275.
+ (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 275.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 275.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 275.
+ (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 275.
+ (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 275.
+ (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
 
 [1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
 {C:/Users/hamad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./Bilder/fhkiel_logo.jpg>]
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 310.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 314.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 310.
+(Font)              scaled to size 11.39996pt on input line 314.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 310.
+(Font)              scaled to size 11.39996pt on input line 314.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 16.41594pt on input line 310.
-Package tocbasic Info: character protrusion at toc deactivated on input line 310.
- (main.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9.
- (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9.
- (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 9.
- (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 9.
- (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 9.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 9.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 9.
- (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-eur.cfg
-File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
- (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
- (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
+(Font)              scaled to size 16.41594pt on input line 314.
+Package tocbasic Info: character protrusion at toc deactivated on input line 314.
+ (main.toc)
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
 
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 312.
+(Font)              <10.95> on input line 316.
 [2{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (Sections/01-Einleitung.tex) (Sections/02-Theoretische Grundlagen.tex) (Sections/03-Aufgabenstellung.tex) (Sections/04-Projektmanagement.tex) (Sections/05-Proben und Methoden.tex) (Sections/06-Durchführung.tex) (Sections/07-Ergebnisse.tex
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
@@ -1840,7 +1839,7 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  125i,20n,133p,10955b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (6 pages, 224479 bytes).
+Output written on main.pdf (6 pages, 224397 bytes).
 PDF statistics:
  168 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
