@@ -1,6 +1,6 @@
-PWD c:\Users\hamad\Documents\Studium\4_Semester\Messtechnik_2\Berichte\Schertest
+PWD c:\Users\hamad\Documents\Messtechnik2\Schertest-Bericht
 INPUT C:\Users\hamad\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\hamad\Documents\Studium\4_Semester\Messtechnik_2\Berichte\Schertest\main.tex
+INPUT c:\Users\hamad\Documents\Messtechnik2\Schertest-Bericht\main.tex
 OUTPUT main.log
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls
@@ -726,11 +726,11 @@ INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
+INPUT data.csv
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
-INPUT data.csv
 INPUT .\Sections\08-Zusammenfassung.tex
 INPUT .\Sections\08-Zusammenfassung.tex
 INPUT .\Sections\08-Zusammenfassung.tex

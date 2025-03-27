@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.27)  27 MAR 2025 10:56
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.23)  27 MAR 2025 10:57
->>>>>>> e3b655ac5c6ec61d15bb0b5216a3759f997b424d
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  27 MAR 2025 15:12
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/hamad/Documents/Studium/4_Semester/Messtechnik_2/Berichte/Schertest/main.tex
-(c:/Users/hamad/Documents/Studium/4_Semester/Messtechnik_2/Berichte/Schertest/main.tex
+**c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex
+(c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
@@ -164,7 +160,7 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
 ) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+Package: babel 2025/03/10 v25.5 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
 \babel@savecnt=\count276
 \U@D=\dimen150
 \l@unhyphenated=\language79
@@ -856,7 +852,7 @@ Loading the chemmacros module `spectroscopy' ...
 
 Loading the chemmacros module `spectroscopy' ...
 (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
-Package: siunitx 2025-02-27 v3.4.6 A comprehensive (SI) units package
+Package: siunitx 2025-03-17 v3.4.7 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count345
 \l__siunitx_number_exponent_fixed_int=\count346
 \l__siunitx_number_min_decimal_int=\count347
@@ -993,7 +989,7 @@ Package caption Info: KOMA-Script scrextend package detected.
 \sf@top=\skip102
 \sf@bottom=\skip103
 ) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
-Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
+Package: pdfpages 2025/03/12 v0.6f Insert pages of external PDF documents (AM)
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen364
@@ -1003,7 +999,7 @@ Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \AM@pageheight=\dimen367
 \AM@fboxrule=\dimen368
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
-File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+File: pppdftex.def 2025/03/12 v0.6f Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count369
 \AM@pagebox=\box92
@@ -1515,7 +1511,10 @@ Package chemmacros Info: Using float defining method `float'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 239.
 (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (main.aux)
+) (main.aux
+Package babel Info: 'ngerman' activates 'ngerman' shorthands.
+(babel)             Reported  on input line 16.
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 239.
@@ -1776,7 +1775,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 14.
 
 
-[3{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[3]
 PGFPlots: reading {data.csv}
 Package pgfplots info on input line 90: boxplot: got lower quartile=6.4785004e1
 Package pgfplots info on input line 90: boxplot: got median=7.024498e1
@@ -1790,19 +1789,15 @@ Package pgfplots info on input line 90: boxplot: got upper quartile=2.77799988e1
 Package pgfplots info on input line 90: boxplot: got sample size=9.0e0
 Package pgfplots info on input line 90: boxplot: got lower whisker=2.423e1
 Package pgfplots info on input line 90: boxplot: got upper whisker=2.782e1
-<<<<<<< HEAD
-) (Sections/08-Zusammenfassung.tex
+)
 
-LaTeX Warning: Reference `tab:ergebnisse' on page 4 undefined on input line 3.
+[4{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (Sections/08-Zusammenfassung.tex
 
-) (Sections/09-Fazit.tex) [4] [5] (Sections-ending/11-Abbildungsverzeichnis.tex
-=======
-) (Sections/08-Zusammenfassung.tex) (Sections/09-Fazit.tex)
+LaTeX Warning: Reference `tab:ergebnisse' on page 5 undefined on input line 3.
 
-[4]
+) (Sections/09-Fazit.tex)
 
 [5] (Sections-ending/11-Abbildungsverzeichnis.tex
->>>>>>> e3b655ac5c6ec61d15bb0b5216a3759f997b424d
 Package tocbasic Info: character protrusion at lof deactivated on input line 1.
  (main.lof)
 \tf@lof=\write8
@@ -1837,27 +1832,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 65618 strings out of 474486
- 1578671 string characters out of 5744227
- 2748842 words of memory out of 5000000
- 86756 multiletter control sequences out of 15000+600000
- 669466 words of font info for 195 fonts, out of 8000000 for 9000
+ 65328 strings out of 473523
+ 1569708 string characters out of 5714630
+ 2766849 words of memory out of 5000000
+ 87415 multiletter control sequences out of 15000+600000
+ 670234 words of font info for 195 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 125i,20n,133p,10973b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Test/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (6 pages, 224619 bytes).
-=======
- 65316 strings out of 473523
- 1569932 string characters out of 5714630
- 2762427 words of memory out of 5000000
- 87405 multiletter control sequences out of 15000+600000
- 670143 words of font info for 194 fonts, out of 8000000 for 9000
- 1144 hyphenation exceptions out of 8191
- 125i,20n,133p,10976b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,20n,133p,10955b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (6 pages, 223999 bytes).
->>>>>>> e3b655ac5c6ec61d15bb0b5216a3759f997b424d
+Output written on main.pdf (6 pages, 224479 bytes).
 PDF statistics:
  168 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
