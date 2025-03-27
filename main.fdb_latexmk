@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 0 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1743069227.72709 0
   "Einzelnachweise.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1743068189.11997 "c:/Mechatronik_lokal/SoSe_25/Messtechnik2/LatexBerichte/Schertest-Bericht/main.tex" "main.pdf" "main" 1743068195.90567 0
+["pdflatex"] 1743069221.62818 "c:/Mechatronik_lokal/SoSe_25/Messtechnik2/LatexBerichte/Schertest-Bericht/main.tex" "main.pdf" "main" 1743069227.72818 0
   "Bilder/fhkiel_logo.jpg" 1743067850 25178 5626636aef4c8bb2cf0e0b66947cb6c7 ""
   "C:/Users/Test/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743068173 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Test/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743067995 24224574 8cfa147b24f4e0a475f0a61e7f5beff8 ""
@@ -368,18 +368,18 @@
   "Sections/05-Proben und Methoden.tex" 1743067850 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Sections/06-Durchführung.tex" 1743067850 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Sections/07-Ergebnisse.tex" 1743067850 3341 9285b369b159622a0d9edf9d20a5e674 ""
-  "Sections/08-Zusammenfassung.tex" 1743067850 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Sections/08-Zusammenfassung.tex" 1743069220 111 d38ca8d244c0af4ee11880a192226dad ""
   "Sections/09-Fazit.tex" 1743067850 0 d41d8cd98f00b204e9800998ecf8427e ""
   "c:/Mechatronik_lokal/SoSe_25/Messtechnik2/LatexBerichte/Schertest-Bericht/main.tex" 1743067850 13061 8742201076a43adce1921520be264a6b ""
   "data.csv" 1743067850 136 32fb2321566781b3b97717a3fa4de594 ""
-  "main.aux" 1743068194 6386 4d682d6a92d5760089ddf5128927bbb4 "pdflatex"
+  "main.aux" 1743069226 6386 dcdfed8ee78213b00b3c7f761ce04fc5 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.lof" 1743068194 95 266fb778c506bbca413fec0c0a8f3005 "pdflatex"
-  "main.lot" 1743068194 265 bc4be2508f1c60013f082eb86edab4b2 "pdflatex"
-  "main.out" 1743068193 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1743068194 2346 7cb6c28c62fbd9654f4c5ad2fc81c991 "pdflatex"
+  "main.lof" 1743069226 95 266fb778c506bbca413fec0c0a8f3005 "pdflatex"
+  "main.lot" 1743069226 265 bc4be2508f1c60013f082eb86edab4b2 "pdflatex"
+  "main.out" 1743069225 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1743069226 2346 7cb6c28c62fbd9654f4c5ad2fc81c991 "pdflatex"
   "main.tex" 1743067850 13061 8742201076a43adce1921520be264a6b ""
-  "main.toc" 1743068194 1039 3453fed2cee550e605e1e14837a81085 "pdflatex"
+  "main.toc" 1743069226 1039 3d5c4d0a7066d43364fea787aa954ce6 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
