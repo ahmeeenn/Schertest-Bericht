@@ -10,7 +10,7 @@
 \contentsline {section}{\numberline {5}Proben und Methoden}{4}{section.10}%
 \contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{4}{subsection.13}%
 \contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{5}{subsubsection.14}%
-\contentsline {subsubsection}{\numberline {5.1.2}Einsatz des Digitalmikroskops}{5}{subsubsection.19}%
+\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{5}{subsection.19}%
 \contentsline {section}{\numberline {6}Durchführung}{6}{section.20}%
 \contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{6}{subsection.21}%
 \contentsline {section}{\numberline {7}Ergebnisse}{6}{section.22}%
