@@ -1,47 +1,26 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{3}{section.2}%
 \contentsline {section}{\numberline {2}Theoretische Grundlagen}{3}{section.3}%
-<<<<<<< HEAD
 \contentsline {section}{\numberline {3}Aufgabenstellung}{5}{section.5}%
 \contentsline {subsection}{\numberline {3.1}Untersuchung der Prüfkörper:}{5}{subsection.6}%
 \contentsline {subsection}{\numberline {3.2}Durchführung:}{6}{subsection.9}%
 \contentsline {subsection}{\numberline {3.3}Untersuchung}{6}{subsection.11}%
 \contentsline {section}{\numberline {4}Projektmanagement}{7}{section.12}%
 \contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{7}{subsection.13}%
-\contentsline {subsection}{\numberline {4.2}Versuchsdurchführung}{7}{subsection.14}%
-\contentsline {subsection}{\numberline {4.3}Meilsteine}{7}{subsection.15}%
-\contentsline {section}{\numberline {5}Proben und Methoden}{7}{section.16}%
-\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{8}{subsection.19}%
-\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{9}{subsubsection.20}%
-\contentsline {subsubsection}{\numberline {5.1.2}Einsatz des Digitalmikroskops}{9}{subsubsection.25}%
-\contentsline {section}{\numberline {6}Durchführung}{9}{section.26}%
-\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{9}{subsection.27}%
-\contentsline {section}{\numberline {7}Ergebnisse}{10}{section.28}%
-\contentsline {subsection}{\numberline {7.1}Sintern}{10}{subsection.29}%
-\contentsline {section}{\numberline {8}Zusammenfassung}{11}{section.33}%
-\contentsline {section}{\numberline {9}Fazit}{11}{section.34}%
-\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{12}{section.35}%
-\contentsline {section}{\numberline {11}Tabellenverzeichnis}{12}{section.37}%
-\contentsline {section}{\numberline {12}Literaturverzeichnis}{12}{section.39}%
-=======
-\contentsline {section}{\numberline {3}Aufgabenstellung}{3}{section.4}%
-\contentsline {section}{\numberline {4}Projektmanagement}{3}{section.5}%
-\contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{3}{subsection.6}%
-\contentsline {subsection}{\numberline {4.2}Meilsteine}{3}{subsection.7}%
-\contentsline {subsection}{\numberline {4.3}Struktur der Arbeit}{4}{subsection.8}%
-\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{4}{subsection.10}%
-\contentsline {section}{\numberline {5}Proben und Methoden}{4}{section.11}%
-\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{5}{subsection.14}%
-\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{6}{subsubsection.15}%
-\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{6}{subsection.20}%
-\contentsline {section}{\numberline {6}Durchführung}{6}{section.21}%
-\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{6}{subsection.22}%
-\contentsline {section}{\numberline {7}Ergebnisse}{7}{section.23}%
-\contentsline {subsection}{\numberline {7.1}Sintern}{7}{subsection.24}%
-\contentsline {section}{\numberline {8}Zusammenfassung}{8}{section.28}%
-\contentsline {section}{\numberline {9}Fazit}{9}{section.29}%
-\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{10}{section.30}%
-\contentsline {section}{\numberline {11}Tabellenverzeichnis}{10}{section.32}%
-\contentsline {section}{\numberline {12}Literaturverzeichnis}{10}{section.34}%
->>>>>>> 36483c17f25e88dbf2bfb999f4ab65c0ecd531e4
+\contentsline {subsection}{\numberline {4.2}Meilsteine}{7}{subsection.14}%
+\contentsline {subsection}{\numberline {4.3}Struktur der Arbeit}{7}{subsection.15}%
+\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{7}{subsection.17}%
+\contentsline {section}{\numberline {5}Proben und Methoden}{8}{section.18}%
+\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{8}{subsection.21}%
+\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{9}{subsubsection.22}%
+\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{10}{subsection.27}%
+\contentsline {section}{\numberline {6}Durchführung}{10}{section.28}%
+\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{10}{subsection.29}%
+\contentsline {section}{\numberline {7}Ergebnisse}{11}{section.30}%
+\contentsline {subsection}{\numberline {7.1}Sintern}{11}{subsection.31}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{12}{section.35}%
+\contentsline {section}{\numberline {9}Fazit}{13}{section.36}%
+\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{14}{section.37}%
+\contentsline {section}{\numberline {11}Tabellenverzeichnis}{14}{section.39}%
+\contentsline {section}{\numberline {12}Literaturverzeichnis}{14}{section.41}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
