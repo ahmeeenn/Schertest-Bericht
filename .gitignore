@@ -1,12 +1,2 @@
 .DS_Store
-*.aux
-*.log
-*.synctex.gz
-*.fdb_latexmk
-*.fls
-*.toc
-*.lot
-*.bbl
-*.blg
-*.bcf
-*.run.xml
+
