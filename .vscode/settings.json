@@ -1,13 +1,26 @@
 {
-    "latex-workshop.latex.toolchain": [
-  {
-    "command": "pdflatex",
-    "args": [
-      "-shell-escape",  // Ensure shell-escape is here
-      "-pdf",
-      "-interaction=nonstopmode",
-      "%DOC%"
-    ]
-  }
-]
+  "latex-workshop.latex.tools": [
+    {
+      "name": "pdflatex",
+      "command": "pdflatex",
+      "args": [
+        "-shell-escape",
+        "-interaction=nonstopmode",
+        "-synctex=1",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "biber",
+      "command": "biber",
+      "args": ["%DOCFILE%"]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "pdflatex -> biber -> pdflatex -> pdflatex",
+      "tools": ["pdflatex", "biber", "pdflatex", "pdflatex"]
+    }
+  ],
+  "latex-workshop.latex.autoBuild.run": "onFileChange"
 }
