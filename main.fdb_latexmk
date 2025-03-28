@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1743157800.57842 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1743158401.63005 0
   "Einzelnachweise.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1743157793.11292 "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" "main.pdf" "main" 1743157800.57987 0
+["pdflatex"] 1743158393.65739 "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" "main.pdf" "main" 1743158401.63152 0
   "Bilder/boxplot_final.eps" 1743157786 72182 d8468c013e1f98b423d0c87b93ed5031 ""
   "Bilder/fhkiel_logo.jpg" 1743084269 25178 5626636aef4c8bb2cf0e0b66947cb6c7 ""
   "C:/Users/hamad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743084760 82507 a9eef8696c92627b87e9975edea03b2a ""
@@ -358,7 +358,7 @@
   "Sections-ending/11-Abbildungsverzeichnis.tex" 1743084269 14 c4f7f6c13af19c70ca9db1b51dfd8f31 ""
   "Sections-ending/12-Tabellenverzeichnis.tex" 1743084269 13 3aa997ee43b43a0fbe06d9ce3b716463 ""
   "Sections-ending/13-Literaturverzeichnis.tex" 1743084269 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Sections/01-Einleitung.tex" 1743084269 12 91e56f4bb74a41c12da3e8641ed44821 ""
+  "Sections/01-Einleitung.tex" 1743158146 388 dc901b1f10ddd8176caa5f242c72944e ""
   "Sections/02-Theoretische Grundlagen.tex" 1743084269 4 ca4f48efaf04174d28ad8188c16fef7b ""
   "Sections/03-Aufgabenstellung.tex" 1743084269 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Sections/04-Projektmanagement.tex" 1743084269 4 098f6bcd4621d373cade4e832627b4f6 ""
@@ -369,14 +369,14 @@
   "Sections/09-Fazit.tex" 1743084269 0 d41d8cd98f00b204e9800998ecf8427e ""
   "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" 1743090073 13318 7d8835142a93784e635335f2e7cb06aa ""
   "data.csv" 1743084269 136 32fb2321566781b3b97717a3fa4de594 ""
-  "main.aux" 1743157799 6766 c43ef607e7c8bdc6524b2eef05a86282 "pdflatex"
+  "main.aux" 1743158400 6766 c43ef607e7c8bdc6524b2eef05a86282 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.lof" 1743157799 220 190737abe24402dd8682b11d3a646409 "pdflatex"
-  "main.lot" 1743157799 265 2c4db9167cf7a7af9da9d896bc9ed869 "pdflatex"
-  "main.out" 1743157797 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1743157799 2346 7cb6c28c62fbd9654f4c5ad2fc81c991 "pdflatex"
+  "main.lof" 1743158400 220 190737abe24402dd8682b11d3a646409 "pdflatex"
+  "main.lot" 1743158400 265 2c4db9167cf7a7af9da9d896bc9ed869 "pdflatex"
+  "main.out" 1743158398 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1743158400 2346 7cb6c28c62fbd9654f4c5ad2fc81c991 "pdflatex"
   "main.tex" 1743090073 13318 7d8835142a93784e635335f2e7cb06aa ""
-  "main.toc" 1743157799 1039 ff3fce5390c08fb1b934351990037bf0 "pdflatex"
+  "main.toc" 1743158400 1039 ff3fce5390c08fb1b934351990037bf0 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
