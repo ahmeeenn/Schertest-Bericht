@@ -16,11 +16,11 @@
 \contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{10}{subsection.27}%
 \contentsline {section}{\numberline {6}Durchführung}{10}{section.28}%
 \contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{10}{subsection.29}%
-\contentsline {section}{\numberline {7}Ergebnisse}{11}{section.30}%
-\contentsline {subsection}{\numberline {7.1}Sintern}{11}{subsection.31}%
-\contentsline {section}{\numberline {8}Zusammenfassung}{12}{section.35}%
-\contentsline {section}{\numberline {9}Fazit}{13}{section.36}%
-\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{14}{section.37}%
-\contentsline {section}{\numberline {11}Tabellenverzeichnis}{14}{section.39}%
-\contentsline {section}{\numberline {12}Literaturverzeichnis}{14}{section.41}%
+\contentsline {section}{\numberline {7}Ergebnisse}{12}{section.31}%
+\contentsline {subsection}{\numberline {7.1}Sintern}{12}{subsection.32}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{13}{section.36}%
+\contentsline {section}{\numberline {9}Fazit}{13}{section.37}%
+\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{14}{section.38}%
+\contentsline {section}{\numberline {11}Tabellenverzeichnis}{14}{section.40}%
+\contentsline {section}{\numberline {12}Literaturverzeichnis}{14}{section.42}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
