@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.25)  28 MAR 2025 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.25)  28 MAR 2025 17:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1788,15 +1788,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64393 strings out of 473523
- 1541798 string characters out of 5715114
+ 64391 strings out of 473523
+ 1541778 string characters out of 5715114
  2742834 words of memory out of 5000000
  86417 multiletter control sequences out of 15000+600000
- 672621 words of font info for 218 fonts, out of 8000000 for 9000
+ 672530 words of font info for 217 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  125i,20n,133p,10958b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (9 pages, 373714 bytes).
+Output written on main.pdf (9 pages, 373707 bytes).
 PDF statistics:
  247 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)
