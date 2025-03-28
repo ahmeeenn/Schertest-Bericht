@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 22:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 22:47
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1470,7 +1470,11 @@ Package chemmacros Info: Using float defining method `float'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 242.
  (C:\Users\albas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `Abb.2: Versilberter Kupfer Scherkörper gesintert auf Kupferbodenplatte' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 242.
@@ -1717,96 +1721,154 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 317
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 319.
 [2{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (Sections/01-Einleitung.tex) (Sections/02-Theoretische Grundlagen.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--3
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5.
 (C:\Users\albas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--15
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
  []
 
-<Bilder/Brucharten.png, id=63, 421.575pt x 518.6878pt>
+<Bilder/Brucharten.png, id=71, 421.575pt x 518.6878pt>
 File: Bilder/Brucharten.png Graphic file (type png)
 <use Bilder/Brucharten.png>
-Package pdftex.def Info: Bilder/Brucharten.png  used on input line 21.
-(pdftex.def)             Requested size: 421.57396pt x 518.68654pt.
+Package pdftex.def Info: Bilder/Brucharten.png  used on input line 16.
+(pdftex.def)             Requested size: 168.627pt x 207.47144pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 17--335
+Underfull \hbox (badness 10000) in paragraph at lines 12--335
 
  []
 
 
 
-[3{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
-
-[4 <./Bilder/Brucharten.png>] (Sections/03-Aufgabenstellung.tex
-<Bilder/schematik.png, id=80, 200.24812pt x 97.86563pt>
+[3{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] (Sections/03-Aufgabenstellung.tex
+<Bilder/schematik.png, id=82, 200.24812pt x 97.86563pt>
 File: Bilder/schematik.png Graphic file (type png)
 <use Bilder/schematik.png>
-Package pdftex.def Info: Bilder/schematik.png  used on input line 6.
+Package pdftex.def Info: Bilder/schematik.png  used on input line 7.
 (pdftex.def)             Requested size: 190.23463pt x 92.9718pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--12
+Underfull \hbox (badness 10000) in paragraph at lines 1--13
 
  []
 
-)
 
-[5 <./Bilder/schematik.png>] (Sections/04-Projektmanagement.tex
+
+[4 <./Bilder/Brucharten.png> <./Bilder/schematik.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 2.
-<Bilder/Struktur der Arbeit.png, id=88, 650.93187pt x 343.78438pt>
-File: Bilder/Struktur der Arbeit.png Graphic file (type png)
-<use Bilder/Struktur der Arbeit.png>
-Package pdftex.def Info: Bilder/Struktur der Arbeit.png  used on input line 18.
-(pdftex.def)             Requested size: 520.74619pt x 275.02786pt.
+(Font)              scaled to size 13.67995pt on input line 25.
+<Bilder/Bodenplatte_Sintern_Gesamt.jpg, id=92, 1810.51407pt x 3075.23906pt>
+File: Bilder/Bodenplatte_Sintern_Gesamt.jpg Graphic file (type jpg)
+<use Bilder/Bodenplatte_Sintern_Gesamt.jpg>
+Package pdftex.def Info: Bilder/Bodenplatte_Sintern_Gesamt.jpg  used on input line 31.
+(pdftex.def)             Requested size: 181.06201pt x 307.54192pt.
+<Bilder/Laminieren_Bodenplatte_Gesamt.jpg, id=93, 2122.93124pt x 4154.77219pt>
+File: Bilder/Laminieren_Bodenplatte_Gesamt.jpg Graphic file (type jpg)
+<use Bilder/Laminieren_Bodenplatte_Gesamt.jpg>
+Package pdftex.def Info: Bilder/Laminieren_Bodenplatte_Gesamt.jpg  used on input line 40.
+(pdftex.def)             Requested size: 127.37038pt x 249.27557pt.
 
-Overfull \hbox (65.50208pt too wide) in paragraph at lines 18--19
- [][] 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[5 <./Bilder/Bodenplatte_Sintern_Gesamt.jpg>]
+<Bilder/Schermeißel.png, id=100, 843.15pt x 977.15062pt>
+File: Bilder/Schermeißel.png Graphic file (type png)
+<use Bilder/Schermeißel.png>
+Package pdftex.def Info: Bilder/Schermeißel.png  used on input line 51.
+(pdftex.def)             Requested size: 337.25401pt x 390.85332pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (Sections/05-Proben und Methoden.tex
+)
+Underfull \hbox (badness 10000) in paragraph at lines 60--343
 
-[6]
+ []
 
-[7 <./Bilder/Struktur der Arbeit.png>]
 
-[8]) (Sections/06-Durchführung.tex
 
-[9]
-<Bilder/WhatsApp Image 2025-03-28 at 17.45.42.jpeg, id=115, 1606.0pt x 1256.695pt>
+[6 <./Bilder/Laminieren_Bodenplatte_Gesamt.jpg>] (Sections/04-Projektmanagement.tex
+
+[7 <./Bilder/Schermeißel.png>]
+<Bilder/Struktur der Arbeit.png, id=113, 650.93187pt x 343.78438pt>
+File: Bilder/Struktur der Arbeit.png Graphic file (type png)
+<use Bilder/Struktur der Arbeit.png>
+Package pdftex.def Info: Bilder/Struktur der Arbeit.png  used on input line 19.
+(pdftex.def)             Requested size: 520.74619pt x 275.02786pt.
+)
+
+[8 <./Bilder/Struktur der Arbeit.png>] (Sections/05-Proben und Methoden.tex
+
+[9]) (Sections/06-Durchführung.tex
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+<Bilder/WhatsApp Image 2025-03-28 at 17.45.42.jpeg, id=135, 1606.0pt x 1256.695pt>
 File: Bilder/WhatsApp Image 2025-03-28 at 17.45.42.jpeg Graphic file (type jpg)
 <use Bilder/WhatsApp Image 2025-03-28 at 17.45.42.jpeg>
 Package pdftex.def Info: Bilder/WhatsApp Image 2025-03-28 at 17.45.42.jpeg  used on input line 19.
 (pdftex.def)             Requested size: 321.19432pt x 251.33455pt.
-) (Sections/07-Ergebnisse.tex
-LaTeX Font Info:    Calculating math sizes for size <18> on input line 14.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <18> on input line 14.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12.59995> on input line 14.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 14.
 
 
-[10 <./Bilder/WhatsApp Image 2025-03-28 at 17.45.42.jpeg>]
+[11]
+<Bilder/WhatsApp Image 2025-03-28 at 20.46.08.jpeg, id=142, 1204.5pt x 1606.0pt>
+File: Bilder/WhatsApp Image 2025-03-28 at 20.46.08.jpeg Graphic file (type jpg)
+<use Bilder/WhatsApp Image 2025-03-28 at 20.46.08.jpeg>
+Package pdftex.def Info: Bilder/WhatsApp Image 2025-03-28 at 20.46.08.jpeg  used on input line 29.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+)
+
+[12 <./Bilder/WhatsApp Image 2025-03-28 at 17.45.42.jpeg>] (Sections/07-Ergebnisse.tex
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 18.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <18> on input line 18.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12.59995> on input line 18.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 18.
+
+
+[13 <./Bilder/WhatsApp Image 2025-03-28 at 20.46.08.jpeg>]
+
+[14{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg, id=166, 1047.915pt x 1606.0pt>
+File: Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg Graphic file (type jpg)
+<use Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg>
+Package pdftex.def Info: Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg  used on input line 75.
+(pdftex.def)             Requested size: 209.57928pt x 321.19432pt.
 Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
 (epstopdf)                    date: 2025-03-28 16:02:49
 (epstopdf)                    size: 93135 bytes
@@ -1814,18 +1876,18 @@ Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
 (epstopdf)                    date: 2025-03-28 16:02:49
 (epstopdf)                    size: 94208 bytes
 (epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps>
-(epstopdf)             \includegraphics on input line 69.
+(epstopdf)             \includegraphics on input line 82.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/boxplot_final-eps-converted-to.pdf, id=121, 678.535pt x 452.69125pt>
+<Bilder/boxplot_final-eps-converted-to.pdf, id=167, 678.535pt x 452.69125pt>
 File: Bilder/boxplot_final-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/boxplot_final-eps-converted-to.pdf>
-Package pdftex.def Info: Bilder/boxplot_final-eps-converted-to.pdf  used on input line 69.
+Package pdftex.def Info: Bilder/boxplot_final-eps-converted-to.pdf  used on input line 82.
 (pdftex.def)             Requested size: 318.66948pt x 212.59914pt.
 
 
-[11{C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]) (Sections/08-Zusammenfassung.tex) (Sections/09-Fazit.tex)
+[15 <./Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg>]) (Sections/08-Zusammenfassung.tex) (Sections/09-Fazit.tex)
 
-[12 <./Bilder/boxplot_final-eps-converted-to.pdf>] (Sections-ending/11-Abbildungsverzeichnis.tex
+[16 <./Bilder/boxplot_final-eps-converted-to.pdf>] (Sections-ending/11-Abbildungsverzeichnis.tex
 Package tocbasic Info: character protrusion at lof deactivated on input line 1.
  (main.lof)
 \tf@lof=\write8
@@ -1839,11 +1901,15 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 1.
 
 ) (Sections-ending/13-Literaturverzeichnis.tex)
 
-[13] (main.aux)
+[17] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1851,17 +1917,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64756 strings out of 473523
- 1550186 string characters out of 5714630
- 2745004 words of memory out of 5000000
- 86747 multiletter control sequences out of 15000+600000
- 673349 words of font info for 226 fonts, out of 8000000 for 9000
+ 64833 strings out of 473523
+ 1552369 string characters out of 5714630
+ 2745628 words of memory out of 5000000
+ 86794 multiletter control sequences out of 15000+600000
+ 679972 words of font info for 235 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,20n,133p,10966b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (13 pages, 1380091 bytes).
+Output written on main.pdf (17 pages, 7891457 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 69843 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 358 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 73996 words of extra memory for PDF output out of 74296 (max. 10000000)
 
