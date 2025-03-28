@@ -124,7 +124,7 @@
 \usepackage{adjustbox}
 \usepackage{pgfplots}
 \usepgfplotslibrary{colorbrewer}
-\pgfplotsset{compat = 1.15, cycle list/Set1-8} 
+\pgfplotsset{compat = newest} 
 % Tikz is loaded automatically by pgfplots
 \usetikzlibrary{pgfplots.statistics, pgfplots.colorbrewer} 
 % provides \pgfplotstabletranspose
@@ -207,6 +207,10 @@ sorting=ynt
 \renewcommand*{\bibfont}{\normalfont}
 
 
+\sisetup{output-decimal-marker = {,}}
+\pgfkeys{/pgf/number format/use comma}
+
+
 %------------------------------------------------------
 %-----NUMMERIERUNG-------------------------------------
 %------------------------------------------------------
@@ -228,6 +232,7 @@ sorting=ynt
 \hyphenation{Tren-nungs-kor-rek-tur}
 
 \begin{filecontents*}{data.csv}
+    Sintern,Laminiert
     62.47, 86.81, 79.48, 72.66, 96.21, 67.83, 73.42, 67.10, 0
     36.87, 27.74, 27.09, 24.46, 26.97, 24.23, 27.82, 24.83, 33.19
     \end{filecontents*}

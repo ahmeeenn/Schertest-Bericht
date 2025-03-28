@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  27 MAR 2025 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  28 MAR 2025 11:29
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1508,7 +1508,7 @@ Package chemmacros Info: Using float defining method `float'.
 
 \@float@every@scheme=\toks62
 \c@scheme=\count528
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 239.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 244.
 (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux
@@ -1517,24 +1517,24 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1573,20 +1573,20 @@ LaTeX Font Info:    ... okay on input line 239.
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen406
 \MT@vwid@rightmargin=\dimen407
-LaTeX Info: Redefining \microtypecontext on input line 239.
-Package microtype Info: Applying patch `item' on input line 239.
-Package microtype Info: Applying patch `toc' on input line 239.
-Package microtype Info: Applying patch `eqnum' on input line 239.
-Package microtype Info: Applying patch `footnote' on input line 239.
-Package microtype Info: Applying patch `verbatim' on input line 239.
-LaTeX Info: Redefining \microtypesetup on input line 239.
+LaTeX Info: Redefining \microtypecontext on input line 244.
+Package microtype Info: Applying patch `item' on input line 244.
+Package microtype Info: Applying patch `toc' on input line 244.
+Package microtype Info: Applying patch `eqnum' on input line 244.
+Package microtype Info: Applying patch `footnote' on input line 244.
+Package microtype Info: Applying patch `verbatim' on input line 244.
+LaTeX Info: Redefining \microtypesetup on input line 244.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 239.
+LaTeX Info: Redefining \showhyphens on input line 244.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1612,14 +1612,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
-Package chemgreek Info: Activating mapping `upgreek' on line 239.
+Package chemgreek Info: Activating mapping `upgreek' on line 244.
 
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 239.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 244.
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: Option `justification=RaggedRight' requires the `ragged2e' package on input line 239.
+Package caption Info: Option `justification=RaggedRight' requires the `ragged2e' package on input line 244.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip131
@@ -1646,7 +1646,7 @@ Package caption Info: End \AtBeginDocument code.
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-Package hyperref Info: Link coloring ON on input line 239.
+Package hyperref Info: Link coloring ON on input line 244.
 (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1658,7 +1658,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 239.
+(scrartcl)           before \begin{document} on input line 244.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
@@ -1688,46 +1688,46 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' not found.
 
 No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 239.
-Package biblatex Info: Reference segment=0 on input line 239.
+Package biblatex Info: Reference section=0 on input line 244.
+Package biblatex Info: Reference segment=0 on input line 244.
 (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/elements\elements_names_german.def)
 <Bilder/fhkiel_logo.jpg, id=6, 699.3871pt x 186.50322pt>
 File: Bilder/fhkiel_logo.jpg Graphic file (type jpg)
 <use Bilder/fhkiel_logo.jpg>
-Package pdftex.def Info: Bilder/fhkiel_logo.jpg  used on input line 256.
+Package pdftex.def Info: Bilder/fhkiel_logo.jpg  used on input line 261.
 (pdftex.def)             Requested size: 262.49362pt x 70.0pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 275.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 280.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 275.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 280.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 275.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 280.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 275.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 280.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 275.
+(Font)              <12> on input line 280.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 275.
+(Font)              <8> on input line 280.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 275.
+(Font)              <6> on input line 280.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 275.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 280.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 275.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 280.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
@@ -1739,21 +1739,21 @@ Non-PDF special ignored!
 <special> header=psfrag.pro
 
 {C:/Users/hamad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./Bilder/fhkiel_logo.jpg>]
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 314.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 319.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 314.
+(Font)              scaled to size 11.39996pt on input line 319.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 314.
+(Font)              scaled to size 11.39996pt on input line 319.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 16.41594pt on input line 314.
-Package tocbasic Info: character protrusion at toc deactivated on input line 314.
+(Font)              scaled to size 16.41594pt on input line 319.
+Package tocbasic Info: character protrusion at toc deactivated on input line 319.
  (main.toc)
 \tf@toc=\write7
 \openout7 = `main.toc'.
@@ -1761,7 +1761,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 314
 
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 316.
+(Font)              <10.95> on input line 321.
 [2{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (Sections/01-Einleitung.tex) (Sections/02-Theoretische Grundlagen.tex) (Sections/03-Aufgabenstellung.tex) (Sections/04-Projektmanagement.tex) (Sections/05-Proben und Methoden.tex) (Sections/06-Durchführung.tex) (Sections/07-Ergebnisse.tex
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
@@ -1775,28 +1775,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 [3]
-PGFPlots: reading {data.csv}
-Package pgfplots info on input line 90: boxplot: got lower quartile=6.4785004e1
-Package pgfplots info on input line 90: boxplot: got median=7.024498e1
-Package pgfplots info on input line 90: boxplot: got upper quartile=7.6449966e1
-Package pgfplots info on input line 90: boxplot: got sample size=9.0e0
-Package pgfplots info on input line 90: boxplot: got lower whisker=6.247e1
-Package pgfplots info on input line 90: boxplot: got upper whisker=8.681e1
-Package pgfplots info on input line 90: boxplot: got lower quartile=2.46450043e1
-Package pgfplots info on input line 90: boxplot: got median=2.70299988e1
-Package pgfplots info on input line 90: boxplot: got upper quartile=2.77799988e1
-Package pgfplots info on input line 90: boxplot: got sample size=9.0e0
-Package pgfplots info on input line 90: boxplot: got lower whisker=2.423e1
-Package pgfplots info on input line 90: boxplot: got upper whisker=2.782e1
-)
+Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
+(epstopdf)                    date: 2025-03-28 11:29:46
+(epstopdf)                    size: 72182 bytes
+(epstopdf)             Output file: <Bilder/boxplot_final-eps-converted-to.pdf>
+(epstopdf)                    date: 2025-03-28 11:28:56
+(epstopdf)                    size: 93886 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps>
+(epstopdf)             \includegraphics on input line 69.
+runsystem(miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps)...executed.
 
-[4{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (Sections/08-Zusammenfassung.tex
+Package epstopdf Info: Result file: <Bilder/boxplot_final-eps-converted-to.pdf>
+(epstopdf)                    date: 2025-03-28 11:29:59
+(epstopdf)                    size: 74119 bytes.
+<Bilder/boxplot_final-eps-converted-to.pdf, id=51, 678.535pt x 452.69125pt>
+File: Bilder/boxplot_final-eps-converted-to.pdf Graphic file (type pdf)
+<use Bilder/boxplot_final-eps-converted-to.pdf>
+Package pdftex.def Info: Bilder/boxplot_final-eps-converted-to.pdf  used on input line 69.
+(pdftex.def)             Requested size: 318.66948pt x 212.59914pt.
 
-LaTeX Warning: Reference `tab:ergebnisse' on page 5 undefined on input line 3.
 
-) (Sections/09-Fazit.tex)
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] (Sections-ending/11-Abbildungsverzeichnis.tex
+) (Sections/08-Zusammenfassung.tex)
+
+[4{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (Sections/09-Fazit.tex)
+
+[5 <./Bilder/boxplot_final-eps-converted-to.pdf>] (Sections-ending/11-Abbildungsverzeichnis.tex
 Package tocbasic Info: character protrusion at lof deactivated on input line 1.
  (main.lof)
 \tf@lof=\write8
@@ -1815,33 +1820,24 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 1.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 65328 strings out of 473523
- 1569708 string characters out of 5714630
- 2766849 words of memory out of 5000000
- 87415 multiletter control sequences out of 15000+600000
- 670234 words of font info for 195 fonts, out of 8000000 for 9000
+ 64672 strings out of 473523
+ 1552061 string characters out of 5714630
+ 2762541 words of memory out of 5000000
+ 86760 multiletter control sequences out of 15000+600000
+ 670143 words of font info for 194 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  125i,20n,133p,10955b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (6 pages, 224397 bytes).
+<C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
+Output written on main.pdf (6 pages, 270414 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 67706 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 67711 words of extra memory for PDF output out of 74296 (max. 10000000)
 

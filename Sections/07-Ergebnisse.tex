@@ -64,33 +64,13 @@
 
 
 
-\begin{tikzpicture}
-	% Read the data from the CSV
-	\pgfplotstableread[col sep=comma]{data.csv}\csvdata
-	
-	% Transpose the data (rows become columns)
-	\pgfplotstabletranspose\datatransposed{\csvdata} 
-	
-	\begin{axis}[
-		boxplot/draw direction = y,    % Draw boxplot in horizontal direction
-		x axis line style = {opacity=0},
-		axis x line* = bottom,
-		axis y line = left,
-		enlarge y limits,
-		ymajorgrids,
-		xtick = {1, 2},               % Define x-ticks
-		xticklabel style = {align=center, font=\small, rotate=60},
-		xticklabels = {Sintern, Laminiert},
-		xtick style = {draw=none},     % Hide tick lines
-		ylabel = {Scherfestigkeit \si{\newton\per\milli\meter\squared}}, % Y-axis label
-	]
-		% Plot the boxplots for each dataset (column in the transposed data)
-		\foreach \n in {1, 2} {  % Only 2 columns after transpose
-			\addplot+[boxplot, fill, draw=black] table[y index=\n] {\datatransposed};
-		}
-		
-	\end{axis}
-\end{tikzpicture}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{Bilder/boxplot_final.eps}
+    \caption{Colorful Boxplots with Statistical Annotations}
+    \label{fig:boxplot_colored}
+\end{figure}
+
 
 
 

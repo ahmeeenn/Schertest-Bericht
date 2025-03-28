@@ -1,12 +1,13 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1743085338.5262 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1743157800.57842 0
   "Einzelnachweise.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1743085331.91611 "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" "main.pdf" "main" 1743085338.52779 0
+["pdflatex"] 1743157793.11292 "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" "main.pdf" "main" 1743157800.57987 0
+  "Bilder/boxplot_final.eps" 1743157786 72182 d8468c013e1f98b423d0c87b93ed5031 ""
   "Bilder/fhkiel_logo.jpg" 1743084269 25178 5626636aef4c8bb2cf0e0b66947cb6c7 ""
   "C:/Users/hamad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743084760 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/hamad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743084564 12036089 f3d358384bed8b5eaf6156e9318774cb ""
@@ -61,10 +62,8 @@
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb" 1256929440 119235 05e5c8d6d60439433e50047898c2c0e0 ""
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb" 1256929440 113634 9384aebdf26f9881e046a4b5574566db ""
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb" 1256929440 119752 1bd8d06e4079df624bf59ce3ad7c9aa6 ""
-  "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb" 1256929440 122174 a2d5e73f396ddbeb3bdf5c79aea0993d ""
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb" 1256929440 109265 e6c7d377db6dfccd4a123fb26da8cffb ""
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb" 1256929440 27863 09ce3735688ffde955e72da27c95b61a ""
-  "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb" 1256929440 27802 5c876bb2c4040caaf035d60bd74a86bd ""
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb" 1136849748 35941 adef23a721dd8354a4a2bf4434f1c484 ""
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/helvetic/phvb8t.vf" 1136768654 2340 0efed6a948c3c37d870e4e7ddb85c7c3 ""
   "C:/Users/hamad/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -365,19 +364,19 @@
   "Sections/04-Projektmanagement.tex" 1743084269 4 098f6bcd4621d373cade4e832627b4f6 ""
   "Sections/05-Proben und Methoden.tex" 1743084269 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Sections/06-Durchführung.tex" 1743084547 23 0 ""
-  "Sections/07-Ergebnisse.tex" 1743084269 3341 9285b369b159622a0d9edf9d20a5e674 ""
-  "Sections/08-Zusammenfassung.tex" 1743084269 292 10a921ee3d63d27cefc147c4cab26a26 ""
+  "Sections/07-Ergebnisse.tex" 1743157728 2594 e907cb2e3736aa4367092d017818acb0 ""
+  "Sections/08-Zusammenfassung.tex" 1743088611 293 2e1c04ceeef3c456305dff389fc93210 ""
   "Sections/09-Fazit.tex" 1743084269 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" 1743085330 13229 ccf312babd269056838e07791cc30b48 ""
+  "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" 1743090073 13318 7d8835142a93784e635335f2e7cb06aa ""
   "data.csv" 1743084269 136 32fb2321566781b3b97717a3fa4de594 ""
-  "main.aux" 1743085337 6454 7c3148c526101a4b3c1bcbb72673917a "pdflatex"
+  "main.aux" 1743157799 6766 c43ef607e7c8bdc6524b2eef05a86282 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.lof" 1743085337 95 266fb778c506bbca413fec0c0a8f3005 "pdflatex"
-  "main.lot" 1743085337 265 2c4db9167cf7a7af9da9d896bc9ed869 "pdflatex"
-  "main.out" 1743085336 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1743085337 2346 38aa43b6556e52ed1f7729d80c145d7e "pdflatex"
-  "main.tex" 1743085330 13229 ccf312babd269056838e07791cc30b48 ""
-  "main.toc" 1743085337 1039 e31a3cc2f6a8f72876afbce5e94f9136 "pdflatex"
+  "main.lof" 1743157799 220 190737abe24402dd8682b11d3a646409 "pdflatex"
+  "main.lot" 1743157799 265 2c4db9167cf7a7af9da9d896bc9ed869 "pdflatex"
+  "main.out" 1743157797 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1743157799 2346 7cb6c28c62fbd9654f4c5ad2fc81c991 "pdflatex"
+  "main.tex" 1743090073 13318 7d8835142a93784e635335f2e7cb06aa ""
+  "main.toc" 1743157799 1039 ff3fce5390c08fb1b934351990037bf0 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
