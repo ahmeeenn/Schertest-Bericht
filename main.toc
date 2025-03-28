@@ -3,13 +3,16 @@
 \contentsline {section}{\numberline {2}Theoretische Grundlagen}{3}{section.3}%
 \contentsline {section}{\numberline {3}Aufgabenstellung}{3}{section.4}%
 \contentsline {section}{\numberline {4}Projektmanagement}{3}{section.5}%
-\contentsline {section}{\numberline {5}Proben und Methoden}{3}{section.6}%
-\contentsline {section}{\numberline {6}Durchführung}{3}{section.7}%
-\contentsline {section}{\numberline {7}Ergebnisse}{4}{section.8}%
-\contentsline {subsection}{\numberline {7.1}Sintern}{4}{subsection.9}%
-\contentsline {section}{\numberline {8}Zusammenfassung}{5}{section.13}%
-\contentsline {section}{\numberline {9}Fazit}{5}{section.14}%
-\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{6}{section.15}%
-\contentsline {section}{\numberline {11}Tabellenverzeichnis}{6}{section.17}%
-\contentsline {section}{\numberline {12}Literaturverzeichnis}{6}{section.19}%
+\contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{3}{subsection.6}%
+\contentsline {subsection}{\numberline {4.2}Versuchsdurchführung}{3}{subsection.7}%
+\contentsline {subsection}{\numberline {4.3}Meilsteine}{3}{subsection.8}%
+\contentsline {section}{\numberline {5}Proben und Methoden}{4}{section.9}%
+\contentsline {section}{\numberline {6}Durchführung}{4}{section.10}%
+\contentsline {section}{\numberline {7}Ergebnisse}{4}{section.11}%
+\contentsline {subsection}{\numberline {7.1}Sintern}{4}{subsection.12}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{5}{section.16}%
+\contentsline {section}{\numberline {9}Fazit}{6}{section.17}%
+\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{7}{section.18}%
+\contentsline {section}{\numberline {11}Tabellenverzeichnis}{7}{section.20}%
+\contentsline {section}{\numberline {12}Literaturverzeichnis}{7}{section.22}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
