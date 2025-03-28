@@ -6,18 +6,18 @@
 \contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{3}{subsection.6}%
 \contentsline {subsection}{\numberline {4.2}Meilsteine}{3}{subsection.7}%
 \contentsline {subsection}{\numberline {4.3}Struktur der Arbeit}{4}{subsection.8}%
-\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{4}{subsection.9}%
-\contentsline {section}{\numberline {5}Proben und Methoden}{4}{section.10}%
-\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{4}{subsection.13}%
-\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{5}{subsubsection.14}%
-\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{5}{subsection.19}%
-\contentsline {section}{\numberline {6}Durchführung}{6}{section.20}%
-\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{6}{subsection.21}%
-\contentsline {section}{\numberline {7}Ergebnisse}{6}{section.22}%
-\contentsline {subsection}{\numberline {7.1}Sintern}{6}{subsection.23}%
-\contentsline {section}{\numberline {8}Zusammenfassung}{7}{section.27}%
-\contentsline {section}{\numberline {9}Fazit}{8}{section.28}%
-\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{9}{section.29}%
-\contentsline {section}{\numberline {11}Tabellenverzeichnis}{9}{section.31}%
-\contentsline {section}{\numberline {12}Literaturverzeichnis}{9}{section.33}%
+\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{4}{subsection.10}%
+\contentsline {section}{\numberline {5}Proben und Methoden}{4}{section.11}%
+\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{5}{subsection.14}%
+\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{6}{subsubsection.15}%
+\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{6}{subsection.20}%
+\contentsline {section}{\numberline {6}Durchführung}{6}{section.21}%
+\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{6}{subsection.22}%
+\contentsline {section}{\numberline {7}Ergebnisse}{7}{section.23}%
+\contentsline {subsection}{\numberline {7.1}Sintern}{7}{subsection.24}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{8}{section.28}%
+\contentsline {section}{\numberline {9}Fazit}{8}{section.29}%
+\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{9}{section.30}%
+\contentsline {section}{\numberline {11}Tabellenverzeichnis}{9}{section.32}%
+\contentsline {section}{\numberline {12}Literaturverzeichnis}{9}{section.34}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
