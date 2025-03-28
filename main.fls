@@ -233,14 +233,6 @@ INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\mhchem\mhchem.sty
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\mhchem\mhchem.sty
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\chemgreek\chemgreek.sty
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\chemgreek\chemgreek.sty
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\chemmacros\chemmacros.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\chemmacros\chemmacros.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
@@ -253,6 +245,10 @@ INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infware
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
@@ -266,6 +262,8 @@ INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\elements\elements.s
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\elements\elements.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\relsize\relsize.sty
@@ -504,8 +502,6 @@ INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.external.code.tex
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.external.code.tex
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
-INPUT .\data.csv
-INPUT data.csv
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
@@ -788,6 +784,8 @@ INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.p
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\hamad\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
