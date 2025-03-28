@@ -1,27 +1,24 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{3}{section.2}%
 \contentsline {section}{\numberline {2}Theoretische Grundlagen}{3}{section.3}%
-\contentsline {section}{\numberline {3}Aufgabenstellung}{4}{section.6}%
-\contentsline {subsection}{\numberline {3.1}Untersuchung der Prüfkörper}{5}{subsection.8}%
-\contentsline {subsection}{\numberline {3.2}Durchführung}{6}{subsection.11}%
-\contentsline {subsection}{\numberline {3.3}Untersuchung}{6}{subsection.13}%
-\contentsline {section}{\numberline {4}Projektmanagement}{7}{section.14}%
-\contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{7}{subsection.15}%
-\contentsline {subsection}{\numberline {4.2}Meilsteine}{8}{subsection.16}%
-\contentsline {subsection}{\numberline {4.3}Struktur der Arbeit}{8}{subsection.17}%
-\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{9}{subsection.19}%
-\contentsline {section}{\numberline {5}Proben und Methoden}{9}{section.20}%
-\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{9}{subsection.23}%
-\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTec Condor Sigma}{10}{subsubsection.24}%
-\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{10}{subsection.29}%
-\contentsline {section}{\numberline {6}Durchführung}{11}{section.30}%
-\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{11}{subsection.31}%
-\contentsline {subsection}{\numberline {6.2}Analyse der Bruchbilder}{12}{subsection.33}%
-\contentsline {section}{\numberline {7}Ergebnisse}{13}{section.35}%
-\contentsline {subsection}{\numberline {7.1}Analyse der Bruchbilder}{14}{subsection.39}%
-\contentsline {section}{\numberline {8}Zusammenfassung}{16}{section.42}%
-\contentsline {section}{\numberline {9}Fazit}{16}{section.43}%
-\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{17}{section.44}%
-\contentsline {section}{\numberline {11}Tabellenverzeichnis}{17}{section.46}%
-\contentsline {section}{\numberline {12}Literaturverzeichnis}{17}{section.48}%
+\contentsline {section}{\numberline {3}Aufgabenstellung}{5}{section.6}%
+\contentsline {section}{\numberline {4}Projektmanagement}{6}{section.8}%
+\contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{6}{subsection.9}%
+\contentsline {subsection}{\numberline {4.2}Meilsteine}{6}{subsection.10}%
+\contentsline {subsection}{\numberline {4.3}Struktur der Arbeit}{6}{subsection.11}%
+\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{7}{subsection.13}%
+\contentsline {section}{\numberline {5}Proben und Methoden}{7}{section.14}%
+\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{8}{subsection.17}%
+\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTec Condor Sigma}{8}{subsubsection.18}%
+\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{9}{subsection.23}%
+\contentsline {section}{\numberline {6}Durchführung}{9}{section.24}%
+\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{9}{subsection.25}%
+\contentsline {subsection}{\numberline {6.2}Analyse der Bruchbilder}{10}{subsection.27}%
+\contentsline {section}{\numberline {7}Ergebnisse}{11}{section.29}%
+\contentsline {subsection}{\numberline {7.1}Analyse der Bruchbilder}{12}{subsection.33}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{14}{section.36}%
+\contentsline {section}{\numberline {9}Fazit}{14}{section.37}%
+\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{15}{section.38}%
+\contentsline {section}{\numberline {11}Tabellenverzeichnis}{15}{section.40}%
+\contentsline {section}{\numberline {12}Literaturverzeichnis}{15}{section.42}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
