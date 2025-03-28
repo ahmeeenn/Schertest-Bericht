@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.25)  28 MAR 2025 15:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.25)  28 MAR 2025 17:00
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1714,7 +1714,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [2{C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (Sections/01-Einleitung.tex) (Sections/02-Theoretische Grundlagen.tex) (Sections/03-Aufgabenstellung.tex) (Sections/04-Projektmanagement.tex
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 2.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 11.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8.
  (C:\Users\Nate\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1743,7 +1743,7 @@ Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
 (epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps>
 (epstopdf)             \includegraphics on input line 69.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/boxplot_final-eps-converted-to.pdf, id=90, 678.535pt x 452.69125pt>
+<Bilder/boxplot_final-eps-converted-to.pdf, id=92, 678.535pt x 452.69125pt>
 File: Bilder/boxplot_final-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/boxplot_final-eps-converted-to.pdf>
 Package pdftex.def Info: Bilder/boxplot_final-eps-converted-to.pdf  used on input line 69.
@@ -1778,17 +1778,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64382 strings out of 473523
- 1541463 string characters out of 5715114
+ 64384 strings out of 473523
+ 1541482 string characters out of 5715114
  2741768 words of memory out of 5000000
- 86408 multiletter control sequences out of 15000+600000
+ 86409 multiletter control sequences out of 15000+600000
  672621 words of font info for 218 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  125i,20n,133p,10958b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Nate/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (9 pages, 338965 bytes).
+Output written on main.pdf (9 pages, 339809 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 69815 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 69823 words of extra memory for PDF output out of 74296 (max. 10000000)
 
