@@ -54,8 +54,8 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>alphabetic.bbx</file>
-      <file>alphabetic.cbx</file>
+      <file>numeric.bbx</file>
+      <file>numeric.cbx</file>
       <file>biblatex.cfg</file>
       <file>german.lbx</file>
       <file>ngerman.lbx</file>
@@ -80,6 +80,7 @@
       <file>main.bcf</file>
     </requires>
     <requires type="editable">
+      <file>quellen.bib</file>
       <file>Einzelnachweise.bib</file>
     </requires>
   </external>

@@ -1,6 +1,7 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{3}{section.2}%
 \contentsline {section}{\numberline {2}Theoretische Grundlagen}{3}{section.3}%
+<<<<<<< HEAD
 \contentsline {section}{\numberline {3}Aufgabenstellung}{5}{section.5}%
 \contentsline {subsection}{\numberline {3.1}Untersuchung der Prüfkörper:}{5}{subsection.6}%
 \contentsline {subsection}{\numberline {3.2}Durchführung:}{6}{subsection.9}%
@@ -22,4 +23,25 @@
 \contentsline {section}{\numberline {10}Abbildungsverzeichnis}{12}{section.35}%
 \contentsline {section}{\numberline {11}Tabellenverzeichnis}{12}{section.37}%
 \contentsline {section}{\numberline {12}Literaturverzeichnis}{12}{section.39}%
+=======
+\contentsline {section}{\numberline {3}Aufgabenstellung}{3}{section.4}%
+\contentsline {section}{\numberline {4}Projektmanagement}{3}{section.5}%
+\contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{3}{subsection.6}%
+\contentsline {subsection}{\numberline {4.2}Meilsteine}{3}{subsection.7}%
+\contentsline {subsection}{\numberline {4.3}Struktur der Arbeit}{4}{subsection.8}%
+\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{4}{subsection.10}%
+\contentsline {section}{\numberline {5}Proben und Methoden}{4}{section.11}%
+\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{5}{subsection.14}%
+\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{6}{subsubsection.15}%
+\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{6}{subsection.20}%
+\contentsline {section}{\numberline {6}Durchführung}{6}{section.21}%
+\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{6}{subsection.22}%
+\contentsline {section}{\numberline {7}Ergebnisse}{7}{section.23}%
+\contentsline {subsection}{\numberline {7.1}Sintern}{7}{subsection.24}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{8}{section.28}%
+\contentsline {section}{\numberline {9}Fazit}{9}{section.29}%
+\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{10}{section.30}%
+\contentsline {section}{\numberline {11}Tabellenverzeichnis}{10}{section.32}%
+\contentsline {section}{\numberline {12}Literaturverzeichnis}{10}{section.34}%
+>>>>>>> 36483c17f25e88dbf2bfb999f4ab65c0ecd531e4
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
