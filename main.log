@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  28 MAR 2025 11:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  28 MAR 2025 11:52
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1776,16 +1776,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [3]
 Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
-(epstopdf)                    date: 2025-03-28 11:29:46
-(epstopdf)                    size: 72182 bytes
+(epstopdf)                    date: 2025-03-28 11:51:23
+(epstopdf)                    size: 76315 bytes
 (epstopdf)             Output file: <Bilder/boxplot_final-eps-converted-to.pdf>
+(epstopdf)                    date: 2025-03-28 11:49:09
+(epstopdf)                    size: 64196 bytes
 (epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps>
 (epstopdf)             \includegraphics on input line 69.
 runsystem(miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps)...executed.
 
 Package epstopdf Info: Result file: <Bilder/boxplot_final-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-28 11:40:00
-(epstopdf)                    size: 74119 bytes.
+(epstopdf)                    date: 2025-03-28 11:52:46
+(epstopdf)                    size: 77999 bytes.
 <Bilder/boxplot_final-eps-converted-to.pdf, id=51, 678.535pt x 452.69125pt>
 File: Bilder/boxplot_final-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/boxplot_final-eps-converted-to.pdf>
@@ -1833,7 +1835,7 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  125i,20n,133p,10955b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (6 pages, 271535 bytes).
+Output written on main.pdf (6 pages, 275415 bytes).
 PDF statistics:
  167 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
