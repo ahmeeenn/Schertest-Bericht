@@ -1,0 +1,23 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.2}%
+\contentsline {section}{\numberline {2}Theoretische Grundlagen}{3}{section.3}%
+\contentsline {section}{\numberline {3}Aufgabenstellung}{5}{section.6}%
+\contentsline {section}{\numberline {4}Projektmanagement}{6}{section.8}%
+\contentsline {subsection}{\numberline {4.1}Einleitung und Vorbereitung}{6}{subsection.9}%
+\contentsline {subsection}{\numberline {4.2}Meilsteine}{6}{subsection.10}%
+\contentsline {subsection}{\numberline {4.3}Struktur der Arbeit}{6}{subsection.11}%
+\contentsline {subsection}{\numberline {4.4}Versuchsdurchführung}{6}{subsection.13}%
+\contentsline {section}{\numberline {5}Proben und Methoden}{7}{section.14}%
+\contentsline {subsection}{\numberline {5.1}Schertester Condor Sigma von XYZTec}{7}{subsection.17}%
+\contentsline {subsubsection}{\numberline {5.1.1}Vorteile von dem XYZTEC Condor Sigma}{8}{subsubsection.18}%
+\contentsline {subsection}{\numberline {5.2}Einsatz des Digitalmikroskops}{9}{subsection.23}%
+\contentsline {section}{\numberline {6}Durchführung}{9}{section.24}%
+\contentsline {subsection}{\numberline {6.1}Schertest Durchführung}{9}{subsection.25}%
+\contentsline {section}{\numberline {7}Ergebnisse}{11}{section.27}%
+\contentsline {subsection}{\numberline {7.1}Sintern}{11}{subsection.28}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{12}{section.32}%
+\contentsline {section}{\numberline {9}Fazit}{12}{section.33}%
+\contentsline {section}{\numberline {10}Abbildungsverzeichnis}{13}{section.34}%
+\contentsline {section}{\numberline {11}Tabellenverzeichnis}{13}{section.36}%
+\contentsline {section}{\numberline {12}Literaturverzeichnis}{13}{section.38}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
