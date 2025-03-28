@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1743159168.11123 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1743167542.86797 0
   "Einzelnachweise.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1743159159.69048 "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" "main.pdf" "main" 1743159168.11276 0
-  "Bilder/boxplot_final.eps" 1743159083 76315 ed2f1796a352a7866311da3030a28457 ""
+["pdflatex"] 1743167535.78263 "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" "main.pdf" "main" 1743167542.86972 0
+  "Bilder/boxplot_final.eps" 1743167464 80007 0bd5422d2e3598a9741d68d85a65a908 ""
   "Bilder/fhkiel_logo.jpg" 1743084269 25178 5626636aef4c8bb2cf0e0b66947cb6c7 ""
   "C:/Users/hamad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743084760 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/hamad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743084564 12036089 f3d358384bed8b5eaf6156e9318774cb ""
@@ -364,19 +364,19 @@
   "Sections/04-Projektmanagement.tex" 1743084269 4 098f6bcd4621d373cade4e832627b4f6 ""
   "Sections/05-Proben und Methoden.tex" 1743084269 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Sections/06-Durchführung.tex" 1743084547 23 0 ""
-  "Sections/07-Ergebnisse.tex" 1743157728 2594 e907cb2e3736aa4367092d017818acb0 ""
+  "Sections/07-Ergebnisse.tex" 1743167527 2589 29f88f8e0ff0dc6bc0b1895aeefa3d7d ""
   "Sections/08-Zusammenfassung.tex" 1743088611 293 2e1c04ceeef3c456305dff389fc93210 ""
   "Sections/09-Fazit.tex" 1743084269 0 d41d8cd98f00b204e9800998ecf8427e ""
   "c:/Users/hamad/Documents/Messtechnik2/Schertest-Bericht/main.tex" 1743090073 13318 7d8835142a93784e635335f2e7cb06aa ""
   "data.csv" 1743084269 136 32fb2321566781b3b97717a3fa4de594 ""
-  "main.aux" 1743159166 6766 c43ef607e7c8bdc6524b2eef05a86282 "pdflatex"
+  "main.aux" 1743167541 6711 144092c6bdc91f42a280fa3b4877704d "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.lof" 1743159166 220 190737abe24402dd8682b11d3a646409 "pdflatex"
-  "main.lot" 1743159166 265 2c4db9167cf7a7af9da9d896bc9ed869 "pdflatex"
-  "main.out" 1743159164 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1743159166 2346 7cb6c28c62fbd9654f4c5ad2fc81c991 "pdflatex"
+  "main.lof" 1743167541 220 190737abe24402dd8682b11d3a646409 "pdflatex"
+  "main.lot" 1743167541 265 2c4db9167cf7a7af9da9d896bc9ed869 "pdflatex"
+  "main.out" 1743167540 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1743167541 2346 7cb6c28c62fbd9654f4c5ad2fc81c991 "pdflatex"
   "main.tex" 1743090073 13318 7d8835142a93784e635335f2e7cb06aa ""
-  "main.toc" 1743159166 1039 ff3fce5390c08fb1b934351990037bf0 "pdflatex"
+  "main.toc" 1743167541 1034 8cddb8b3b8d278da09150f3cb81f58b2 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

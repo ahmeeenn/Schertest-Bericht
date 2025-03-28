@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  28 MAR 2025 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.27)  28 MAR 2025 14:12
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1776,18 +1776,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [3]
 Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
-(epstopdf)                    date: 2025-03-28 11:51:23
-(epstopdf)                    size: 76315 bytes
+(epstopdf)                    date: 2025-03-28 14:11:04
+(epstopdf)                    size: 80007 bytes
 (epstopdf)             Output file: <Bilder/boxplot_final-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-28 11:49:09
-(epstopdf)                    size: 64196 bytes
+(epstopdf)                    date: 2025-03-28 14:11:15
+(epstopdf)                    size: 81918 bytes
 (epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps>
 (epstopdf)             \includegraphics on input line 69.
-runsystem(miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps)...executed.
-
-Package epstopdf Info: Result file: <Bilder/boxplot_final-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-28 11:52:46
-(epstopdf)                    size: 77999 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <Bilder/boxplot_final-eps-converted-to.pdf, id=51, 678.535pt x 452.69125pt>
 File: Bilder/boxplot_final-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/boxplot_final-eps-converted-to.pdf>
@@ -1795,11 +1791,7 @@ Package pdftex.def Info: Bilder/boxplot_final-eps-converted-to.pdf  used on inpu
 (pdftex.def)             Requested size: 318.66948pt x 212.59914pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (Sections/08-Zusammenfassung.tex)
-
-[4{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (Sections/09-Fazit.tex)
+[4{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]) (Sections/08-Zusammenfassung.tex) (Sections/09-Fazit.tex)
 
 [5 <./Bilder/boxplot_final-eps-converted-to.pdf>] (Sections-ending/11-Abbildungsverzeichnis.tex
 Package tocbasic Info: character protrusion at lof deactivated on input line 1.
@@ -1827,15 +1819,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64676 strings out of 473523
- 1552101 string characters out of 5714630
- 2762541 words of memory out of 5000000
- 86760 multiletter control sequences out of 15000+600000
+ 64677 strings out of 473523
+ 1552111 string characters out of 5714630
+ 2761541 words of memory out of 5000000
+ 86761 multiletter control sequences out of 15000+600000
  670325 words of font info for 196 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  125i,20n,133p,10955b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (6 pages, 275415 bytes).
+Output written on main.pdf (6 pages, 279301 bytes).
 PDF statistics:
  167 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
