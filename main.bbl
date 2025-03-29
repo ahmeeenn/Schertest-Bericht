@@ -19,6 +19,56 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{2}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8ec70e8dfdfb905dbda7abd84a376b04}{%
+           family={xyztec},
+           familyi={x\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{fullhash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{fullhashraw}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{bibnamehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authorbibnamehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authornamehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authorfullhash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authorfullhashraw}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://www.xyztec.com/de/produkte/sigma-lite/?
+      \endverb
+      \verb{url}
+      \verb https://www.xyztec.com/de/produkte/sigma-lite/?
+      \endverb
+    \endentry
+    \entry{3}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8ec70e8dfdfb905dbda7abd84a376b04}{%
+           family={xyztec},
+           familyi={x\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{fullhash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{fullhashraw}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{bibnamehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authorbibnamehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authornamehash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authorfullhash}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \strng{authorfullhashraw}{8ec70e8dfdfb905dbda7abd84a376b04}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://www.xyztec.com/3-game-changing-improvements-for-sigma-bond-testers/
+      \endverb
+      \verb{url}
+      \verb https://www.xyztec.com/3-game-changing-improvements-for-sigma-bond-testers/
+      \endverb
+    \endentry
     \entry{article1}{article}{}{}
       \name{author}{1}{}{%
         {{hash=055f6811649a97bc3a36ff4b2581f441}{%
@@ -35,8 +85,8 @@
       \strng{authornamehash}{055f6811649a97bc3a36ff4b2581f441}
       \strng{authorfullhash}{055f6811649a97bc3a36ff4b2581f441}
       \strng{authorfullhashraw}{055f6811649a97bc3a36ff4b2581f441}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Example Journal}
@@ -66,8 +116,8 @@
       \strng{authornamehash}{bd051a2f7a5f377e3a62581b0e0f8577}
       \strng{authorfullhash}{bd051a2f7a5f377e3a62581b0e0f8577}
       \strng{authorfullhashraw}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Example Book}
