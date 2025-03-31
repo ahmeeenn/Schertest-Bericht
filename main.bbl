@@ -69,60 +69,6 @@
       \verb https://www.xyztec.com/3-game-changing-improvements-for-sigma-bond-testers/
       \endverb
     \endentry
-    \entry{article1}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=055f6811649a97bc3a36ff4b2581f441}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Jane},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{055f6811649a97bc3a36ff4b2581f441}
-      \strng{fullhash}{055f6811649a97bc3a36ff4b2581f441}
-      \strng{fullhashraw}{055f6811649a97bc3a36ff4b2581f441}
-      \strng{bibnamehash}{055f6811649a97bc3a36ff4b2581f441}
-      \strng{authorbibnamehash}{055f6811649a97bc3a36ff4b2581f441}
-      \strng{authornamehash}{055f6811649a97bc3a36ff4b2581f441}
-      \strng{authorfullhash}{055f6811649a97bc3a36ff4b2581f441}
-      \strng{authorfullhashraw}{055f6811649a97bc3a36ff4b2581f441}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Example Journal}
-      \field{number}{3}
-      \field{title}{Example Article}
-      \field{volume}{12}
-      \field{year}{2019}
-      \field{pages}{45\bibrangedash 67}
-      \range{pages}{23}
-    \endentry
-    \entry{book1}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=bd051a2f7a5f377e3a62581b0e0f8577}{%
-           family={Doe},
-           familyi={D\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Example Publisher}%
-      }
-      \strng{namehash}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \strng{fullhash}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \strng{fullhashraw}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \strng{bibnamehash}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \strng{authorbibnamehash}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \strng{authornamehash}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \strng{authorfullhash}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \strng{authorfullhashraw}{bd051a2f7a5f377e3a62581b0e0f8577}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Example Book}
-      \field{year}{2020}
-    \endentry
   \enddatalist
 \endrefsection
 \endinput
