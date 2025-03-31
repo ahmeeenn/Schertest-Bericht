@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.23)  31 MAR 2025 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.23)  31 MAR 2025 20:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1470,14 +1470,7 @@ Package chemmacros Info: Using float defining method `float'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 242.
  (C:\Users\hamad\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (main.aux
-
-LaTeX Warning: Label `lamWhats' multiply defined.
-
-
-LaTeX Warning: Label `lamWhats' multiply defined.
-
-)
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 242.
@@ -1746,7 +1739,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
  []
 
-<Bilder/Brucharten.png, id=65, 421.575pt x 518.6878pt>
+<Bilder/Brucharten.png, id=63, 421.575pt x 518.6878pt>
 File: Bilder/Brucharten.png Graphic file (type png)
 <use Bilder/Brucharten.png>
 Package pdftex.def Info: Bilder/Brucharten.png  used on input line 16.
@@ -1761,13 +1754,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--335
 [3{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
 
 [4 <./Bilder/Brucharten.png>] (Sections/03-Aufgabenstellung.tex
-<Bilder/schematik.png, id=82, 200.24812pt x 97.86563pt>
+<Bilder/schematik.png, id=81, 200.24812pt x 97.86563pt>
 File: Bilder/schematik.png Graphic file (type png)
 <use Bilder/schematik.png>
 Package pdftex.def Info: Bilder/schematik.png  used on input line 6.
 (pdftex.def)             Requested size: 190.23463pt x 92.9718pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--11
+Underfull \hbox (badness 10000) in paragraph at lines 1--12
 
  []
 
@@ -1834,19 +1827,41 @@ File: Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg Graphic file (type jpg)
 <use Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg>
 Package pdftex.def Info: Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg  used on input line 75.
 (pdftex.def)             Requested size: 209.57928pt x 321.19432pt.
-<Bilder/2s.png, id=145, 1606.0pt x 615.29875pt>
+<Bilder/Bodenplatte_Sintern_Gesamt.jpg, id=146, 1810.51407pt x 3075.23906pt>
+File: Bilder/Bodenplatte_Sintern_Gesamt.jpg Graphic file (type jpg)
+<use Bilder/Bodenplatte_Sintern_Gesamt.jpg>
+Package pdftex.def Info: Bilder/Bodenplatte_Sintern_Gesamt.jpg  used on input line 84.
+(pdftex.def)             Requested size: 126.74893pt x 215.28873pt.
+
+
+[13 <./Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg>]
+<Bilder/2s.png, id=155, 1606.0pt x 615.29875pt>
 File: Bilder/2s.png Graphic file (type png)
 <use Bilder/2s.png>
-Package pdftex.def Info: Bilder/2s.png  used on input line 82.
+Package pdftex.def Info: Bilder/2s.png  used on input line 93.
 (pdftex.def)             Requested size: 321.19432pt x 123.05756pt.
-<Bilder/7s.png, id=146, 1606.0pt x 615.29875pt>
+<Bilder/7s.png, id=157, 1606.0pt x 615.29875pt>
 File: Bilder/7s.png Graphic file (type png)
 <use Bilder/7s.png>
-Package pdftex.def Info: Bilder/7s.png  used on input line 89.
+Package pdftex.def Info: Bilder/7s.png  used on input line 102.
 (pdftex.def)             Requested size: 321.19432pt x 123.05756pt.
 
 
-[13 <./Bilder/WhatsApp Image 2025-03-28 at 21.29.51.jpeg> <./Bilder/2s.png>]
+[14 <./Bilder/Bodenplatte_Sintern_Gesamt.jpg> <./Bilder/2s.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
 Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
 (epstopdf)                    date: 2025-03-31 13:18:16
 (epstopdf)                    size: 93135 bytes
@@ -1854,16 +1869,40 @@ Package epstopdf Info: Source file: <Bilder/boxplot_final.eps>
 (epstopdf)                    date: 2025-03-31 13:18:16
 (epstopdf)                    size: 94208 bytes
 (epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=Bilder/boxplot_final-eps-converted-to.pdf Bilder/boxplot_final.eps>
-(epstopdf)             \includegraphics on input line 96.
+(epstopdf)             \includegraphics on input line 117.
 Package epstopdf Info: Output file is already uptodate.
-<Bilder/boxplot_final-eps-converted-to.pdf, id=155, 678.535pt x 452.69125pt>
+<Bilder/boxplot_final-eps-converted-to.pdf, id=164, 678.535pt x 452.69125pt>
 File: Bilder/boxplot_final-eps-converted-to.pdf Graphic file (type pdf)
 <use Bilder/boxplot_final-eps-converted-to.pdf>
-Package pdftex.def Info: Bilder/boxplot_final-eps-converted-to.pdf  used on input line 96.
+Package pdftex.def Info: Bilder/boxplot_final-eps-converted-to.pdf  used on input line 117.
 (pdftex.def)             Requested size: 318.66948pt x 212.59914pt.
-) (Sections/08-Zusammenfassung.tex) (Sections/09-Fazit.tex)
 
-[14 <./Bilder/7s.png> <./Bilder/boxplot_final-eps-converted-to.pdf>] (Sections-ending/11-Abbildungsverzeichnis.tex
+
+[15 <./Bilder/7s.png>]) (Sections/08-Zusammenfassung.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+) (Sections/09-Fazit.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+
+[16 <./Bilder/boxplot_final-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+)
+
+[17] (Sections-ending/11-Abbildungsverzeichnis.tex
 Package tocbasic Info: character protrusion at lof deactivated on input line 1.
  (main.lof)
 \tf@lof=\write8
@@ -1875,17 +1914,13 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 1.
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
-) (Sections-ending/13-Literaturverzeichnis.tex)
+)
 
-[15] (main.aux)
+[18] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1893,17 +1928,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64806 strings out of 473523
- 1551555 string characters out of 5714630
- 2746096 words of memory out of 5000000
- 86773 multiletter control sequences out of 15000+600000
- 679972 words of font info for 235 fonts, out of 8000000 for 9000
+ 64602 strings out of 473523
+ 1546963 string characters out of 5714630
+ 2745344 words of memory out of 5000000
+ 86556 multiletter control sequences out of 15000+600000
+ 680744 words of font info for 243 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,20n,133p,10976b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/hamad/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (15 pages, 5546298 bytes).
+Output written on main.pdf (18 pages, 7249554 bytes).
 PDF statistics:
- 329 PDF objects out of 1000 (max. 8388607)
+ 340 PDF objects out of 1000 (max. 8388607)
  63 named destinations out of 1000 (max. 500000)
- 73967 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 73964 words of extra memory for PDF output out of 74296 (max. 10000000)
 
